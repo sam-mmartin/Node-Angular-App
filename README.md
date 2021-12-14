@@ -10,7 +10,7 @@ $ npm init -y
 # Install Json-Server
 $ npm i json-server
 
-# Initialize backend
+# Starts the server
 $ npm start
 
 ```
@@ -25,7 +25,7 @@ $ npm i -g @angular/cli
 # Create a new project
 $ ng new [project-name] --minimal
 
-# Initialize project
+# Start the project
 $ cd [project-folder]
 $ npm start
 
