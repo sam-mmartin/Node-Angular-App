@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Apple iphone XR",
+            "price": 4000.99
+        },
+        {
+            "id": 2,
+            "name": "Apple iphone 11",
+            "price": 5000.99
+        },
+        {
+            "id": 3,
+            "name": "Apple iphone 12",
+            "price": 6000.99
+        },
+        {
+            "id": 4,
+            "name": "Apple iphone 13",
+            "price": 7000.99
+        }
+    ]
+}
